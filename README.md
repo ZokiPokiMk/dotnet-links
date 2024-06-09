@@ -22,6 +22,7 @@
 
 ## AOP
  * [DispatchProxy Class](https://learn.microsoft.com/en-us/dotnet/api/system.reflection.dispatchproxy) - Provides a mechanism for instantiating proxy objects and handling their method dispatch.
+ * [GITHUB Search DispatchProxy AOP](https://github.com/search?q=DispatchProxy%20AOP&type=repositories)
  * [AspectCore](https://github.com/yoldascevik/AspectCore/) - Aspect Oriented Programming Core Library With DispatchProxy in .NET Core
 
 
