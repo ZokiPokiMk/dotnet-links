@@ -20,7 +20,7 @@
 ## OpenTelemetry
   * [Aspire dashboard](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/standalone) - Standalone .NET Aspire dashboard
 
-##AOP
+## AOP
  * [DispatchProxy Class](https://learn.microsoft.com/en-us/dotnet/api/system.reflection.dispatchproxy) - Provides a mechanism for instantiating proxy objects and handling their method dispatch.
  * [AspectCore](https://github.com/yoldascevik/AspectCore/) - Aspect Oriented Programming Core Library With DispatchProxy in .NET Core
 
