@@ -11,6 +11,10 @@
 ## Angular
   * [Angular Clean Code](https://github.com/lubkoKuzenko/angular-clean-code) - Maintain high quality of delivery and prevent technical debt from being created
 
+## Job scheduling
+ * [Quartz.net](https://github.com/quartznet/quartznet) - Enterprise Job Scheduler
+ * [Hangfire OÜ](https://github.com/HangfireIO) - An easy way to perform background processing in .NET and .NET Core applications
+
 ## OpenTelemetry
   * [Aspire dashboard](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/standalone) - Standalone .NET Aspire dashboard
 
