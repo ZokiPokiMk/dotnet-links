@@ -6,6 +6,8 @@
   * [ABP](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
   * [Bing.NetCore](https://github.com/bing-framework/Bing.NetCore) - Dapper, Aop, Serilog, AutoMapper, ABP
   * [MASA.Framework](https://github.com/masastack/MASA.Framework) - .NET next-generation microservice development framework, which provides cloud native best practices based on Dapr.
+  * [Peasy.NET](https://github.com/peasy/Peasy.NET) - A business logic micro-framework for .NET and .NET Core
+
 ## Caching
   * [HybridCache](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/hybrid) - HybridCache library in ASP.NET Core
 
