@@ -25,7 +25,11 @@
  * [GITHUB Search DispatchProxy AOP](https://github.com/search?q=DispatchProxy%20AOP&type=repositories)
  * [AspectCore](https://github.com/yoldascevik/AspectCore/) - Aspect Oriented Programming Core Library With DispatchProxy in .NET Core
 
+## Messaging
+ * [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
 
+## BPM
+ * [Camunda](https://camunda.com/) - Automation, Orchestrated Intelligently.
  
 # Other Lists
   * [Awesome .NET!](https://github.com/quozd/awesome-dotnet/blob/master/README.md) - A collection of awesome .NET libraries, tools, frameworks, and software.
