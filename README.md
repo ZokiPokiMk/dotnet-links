@@ -7,6 +7,8 @@
   * [Bing.NetCore](https://github.com/bing-framework/Bing.NetCore) - Dapper, Aop, Serilog, AutoMapper, ABP
   * [MASA.Framework](https://github.com/masastack/MASA.Framework) - .NET next-generation microservice development framework, which provides cloud native best practices based on Dapr.
   * [Peasy.NET](https://github.com/peasy/Peasy.NET) - A business logic micro-framework for .NET and .NET Core
+  * [Liquid Application Framework
+](https://github.com/Avanade/Liquid-Application-Framework) - Liquid is a multi-cloud framework designed to accelerate the development of cloud-native microservices while avoiding coupling your code to specific cloud providers.
 
 ## Caching
   * [HybridCache](https://learn.microsoft.com/en-us/aspnet/core/performance/caching/hybrid) - HybridCache library in ASP.NET Core
