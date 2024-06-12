@@ -37,3 +37,6 @@
  
 # Other Lists
   * [Awesome .NET!](https://github.com/quozd/awesome-dotnet/blob/master/README.md) - A collection of awesome .NET libraries, tools, frameworks, and software.
+
+# Youtube
+  * [Raw Coding](https://www.youtube.com/@RawCoding/videos) - Welcome to Raw Coding, my name is Anton and I make programming tutorials I wish I had.
