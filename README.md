@@ -24,6 +24,11 @@
 ## OpenTelemetry
   * [Aspire dashboard](https://learn.microsoft.com/en-us/dotnet/aspire/fundamentals/dashboard/standalone) - Standalone .NET Aspire dashboard
 
+## Patterns
+ * [Design Patterns](https://refactoring.guru/design-patterns) - Design patterns are typical solutions to common problems in software design. Each pattern is like a blueprint that you can customize to solve a particular
+design problem in your code.
+ * [Decorator](https://refactoring.guru/design-patterns/decorator/csharp/example) - Decorator is a structural pattern that allows adding new behaviors to objects dynamically by placing them inside special wrapper objects, called decorators.
+
 ## AOP
  * [DispatchProxy Class](https://learn.microsoft.com/en-us/dotnet/api/system.reflection.dispatchproxy) - Provides a mechanism for instantiating proxy objects and handling their method dispatch.
  * [GITHUB Search DispatchProxy AOP](https://github.com/search?q=DispatchProxy%20AOP&type=repositories)
@@ -34,6 +39,12 @@
 
 ## BPM
  * [Camunda](https://camunda.com/) - Automation, Orchestrated Intelligently.
+
+## Database
+ * [Dapper](https://github.com/DapperLib/Dapper) -  a simple object mapper for .Net
+ * [DbUp](https://github.com/DbUp/DbUp) - DbUp is a .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date.
+
+
  
 # Other Lists
   * [Awesome .NET!](https://github.com/quozd/awesome-dotnet/blob/master/README.md) - A collection of awesome .NET libraries, tools, frameworks, and software.
