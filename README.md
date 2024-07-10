@@ -36,6 +36,7 @@ design problem in your code.
 
 ## Messaging
  * [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
+ * [@stomp/stompjs vs signalr vs socket.io-client vs sockjs-client](https://npmtrends.com/@stomp/stompjs-vs-signalr-vs-socket.io-client-vs-sockjs-client) - npm trends
 
 ## BPM
  * [Camunda](https://camunda.com/) - Automation, Orchestrated Intelligently.
