@@ -3,6 +3,8 @@
 # Table of Contents
 
 ## Application Frameworks
+  * [Ardalis CleanArchitecture](https://github.com/ardalis/CleanArchitecture) - Clean Architecture Solution Template: A proven Clean Architecture Template for ASP.NET Core 10.
+  * [Jasontaylordev CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture) - Clean Architecture Solution Template for ASP.NET Core
   * [ABP](https://github.com/abpframework/abp) - The next generation of the ASP.NET Boilerplate web application framework.
   * [Bing.NetCore](https://github.com/bing-framework/Bing.NetCore) - Dapper, Aop, Serilog, AutoMapper, ABP
   * [MASA.Framework](https://github.com/masastack/MASA.Framework) - .NET next-generation microservice development framework, which provides cloud native best practices based on Dapr.
